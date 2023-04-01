@@ -5,6 +5,7 @@
     min-height: 740px;
     box-sizing: border-box;
     background-size: cover;
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
