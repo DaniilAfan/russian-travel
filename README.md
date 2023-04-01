@@ -15,7 +15,7 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Ссылка на сайт:** http://127.0.0.1:5500/russian-travel/
+**Ссылка на сайт в git hub pages:** https://daniilafan.github.io/russian-travel/
 **Ссылка на гит:** https://github.com/DaniilAfan/russian-travel.git
 
 
