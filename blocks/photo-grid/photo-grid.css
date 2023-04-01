@@ -4,7 +4,7 @@
     gap: 16px;
     grid-template-columns: repeat(4, minmax(auto, 284px));
     grid-template-rows: repeat(3, 213px);
-    margin: 92px auto 92px;
+    margin: 92px auto 0;
 }
 
 @media screen and (max-width:1024px) {

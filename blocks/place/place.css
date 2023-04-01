@@ -21,12 +21,13 @@
     .place {
         grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
         grid-gap: 48px 28px;
+        margin-bottom: 73px;
     }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:600px) {
     .place {
-        grid-template-columns: minmax(auto, 320px);
+        grid-template-columns: minmax(auto, 600px);
         grid-template-rows: min-content min-content;
         grid-template-areas:
             "place__title "
@@ -34,5 +35,6 @@
             "place__image"
             "place__paragraph-container";
         row-gap: 32px;
+        margin-bottom: 50px;
     }
 }

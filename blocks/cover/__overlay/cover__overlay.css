@@ -4,6 +4,7 @@
     max-width: 1184px;
     min-height: 740px;
     box-sizing: border-box;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -29,12 +30,13 @@
 }
 
 .cover__overlay:hover::before {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 @media screen and (max-width:1024px) {
     .cover__overlay {
         min-height: 640px;
+        background-position: center;
     }
 
 }
@@ -42,6 +44,7 @@
 @media screen and (max-width:768px) {
     .cover__overlay {
         min-height: 480px;
+        background-position: center;
     }
 
 }

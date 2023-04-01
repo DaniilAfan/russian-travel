@@ -1,6 +1,6 @@
 .places {
     max-width: 984px;
-    margin: 0 auto;
+    margin: 92px auto 0;
 }
 
 @media screen and (max-width:1024px) {
@@ -20,5 +20,6 @@
     .places {
         max-width: 320px;
         margin-top: 64px;
+        padding: 0;
     }
 }
