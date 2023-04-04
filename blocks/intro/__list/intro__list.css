@@ -1,11 +1,10 @@
 .intro__list {
-    font-family: 'inter';
-    max-width: 690px;
     font-style: normal;
+    max-width: 690px;
+    margin-top: 33px;
     font-weight: 700;
     font-size: 12px;
     line-height: 18px;
-    margin-top: 33px;
 }
 
 @media screen and (max-width:768px) {
@@ -16,7 +15,7 @@
 
 @media screen and (max-width:320px) {
     .intro__list {
-        width: 288px;
+        max-width: 288px;
         margin-top: 34px;
     }
 }
